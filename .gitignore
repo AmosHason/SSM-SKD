@@ -1,0 +1,6 @@
+/.idea/
+/.neptune/
+/checkpoints/
+/figures/
+/output/
+**/__pycache__/

@@ -1,0 +1,8 @@
+flake8
+torch
+matplotlib
+numpy
+pytorch-lightning
+prefigure
+neptune
+h5py
